@@ -10,5 +10,15 @@
 9. in collection data structure we can store user-defined class .( which can handle multiple properties related to a particular object) .
 10. what is genric type programming?
 11. Node,Start,None are 3 imporant concepts in SLL.
-12.
+12. Node class is created with 2 instance variables( item & next)
+13. SLL :-> linear data structure and each node is single link to next node
+14. it can grow & srink
+15.  sll_object(start)--> node_object(item/next)--> next again point to the --> node_object--> last next referrs to the None
+16.  operations :-> insertion(start,end,after_a_node(item)),delete(first,last,particular node). for inserting element after a node we have to first search the element and then we have to add after/before it
+17.  point/link means having refrance of that object is stored in a variable and if no ref name tag is pointing to that object then it is eligible for garbage collection
+18.  is_empty()
+19.  traverse() :-> going each element one by one
+20.  iterable(__iter__ and __next__)
+21.  del is used to delete the refrance of the object not object and when ref count is 0 , the object becomes eligibale for the garbage collection.
+22.  
 ---
