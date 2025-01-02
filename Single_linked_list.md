@@ -20,5 +20,6 @@
 19.  traverse() :-> going each element one by one
 20.  iterable(__iter__ and __next__)
 21.  del is used to delete the refrance of the object not object and when ref count is 0 , the object becomes eligibale for the garbage collection.
-22.  
+![image](https://github.com/user-attachments/assets/2a5e14d0-e1ef-4a90-b55b-2c30fef2ba27)
+
 ---
